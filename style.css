@@ -31,7 +31,7 @@ header nav .nav-rigth-section
 }
 nav .nav-rigth-section a 
 {
-    margin-right: 10px;
+    margin-right: 15px;
     color:#000000;
 }
 nav .nav-rigth-section .menu-icon
@@ -46,5 +46,20 @@ nav .nav-rigth-section .menu-icon
 nav .nav-rigth-section img
 {
     border-radius: 50%;
-    margin-left: 10px;
+    margin-left: 12px;
+}
+main
+{
+    margin-top: 250px;
+    text-align: center;
+}
+main .main-logo
+{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom:35px
+}
+main .main-logo img 
+{
+    width: 300px;
 }
